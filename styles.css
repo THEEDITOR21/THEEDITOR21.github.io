@@ -1,5 +1,5 @@
 button {
-	border:1.5px;
+	border:1.5px solid black;
 	width:250px;
 	height:250px;
 	padding:2px;
@@ -7,7 +7,7 @@ button {
 	color:#00ffff;
 }
 button:hover {
-	border:1px;
+	border:1px solid black;
 }
 #doom {
 	background-image: url("doom.png");
