@@ -1,9 +1,13 @@
 button {
+	border:1.5px;
 	width:250px;
 	height:250px;
 	padding:2px;
 	margin:2.5px;
 	color:#00ffff;
+}
+button:hover {
+	border:1px;
 }
 #doom {
 	background-image: url("doom.png");
