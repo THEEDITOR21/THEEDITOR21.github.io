@@ -24,3 +24,8 @@ button:hover {
 #NH {
 	background-image: url("Black-Hawk.png");
 }
+#disc {
+	position:absolute;
+	x:190px;
+	top:500px;
+}
